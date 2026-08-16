@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+.env
+.git/
+.vscode/
+.venv/
+ui pics/
+*.keras
+*.h5
+
+# Keep out backend context from frontend build if doing a root copy
+backend/
+
+npm-debug.log
+yarn-error.log

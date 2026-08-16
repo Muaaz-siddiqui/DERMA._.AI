@@ -1,0 +1,46 @@
+node_modules/
+**/node_modules/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment files
+.env
+.env.*
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build and frontend artifacts
+dist/
+build/
+coverage/
+.vite/
+.parcel-cache/
+*.tsbuildinfo
+
+# Logs and local databases
+*.log
+*.sqlite3
+backend/server_start.log
+db.sqlite3
+
+# Large ML/model artifacts
+*.keras
+*.h5
+*.pt
+*.bin
+*.pkl
+*.faiss
+knowledge_base/faiss_index/
+
+# Project-specific local assets
+ui pics/

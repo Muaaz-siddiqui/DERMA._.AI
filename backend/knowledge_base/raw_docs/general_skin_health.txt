@@ -1,0 +1,74 @@
+GENERAL SKIN HEALTH AND FREQUENTLY ASKED QUESTIONS
+
+About Derma AI:
+Derma AI is an AI-powered skin disease detection application. It uses deep learning to analyze skin images and identify potential skin conditions. Derma AI is a screening tool only and is NOT a replacement for professional medical diagnosis. Always consult a qualified dermatologist for proper diagnosis and treatment.
+
+General Skin Care:
+- Cleanse skin gently twice daily
+- Moisturize daily to maintain skin barrier
+- Apply broad spectrum SPF 30 or higher sunscreen every day
+- Stay hydrated by drinking adequate water
+- Eat a balanced diet rich in antioxidants
+- Get adequate sleep as skin repairs itself during sleep
+- Avoid smoking which accelerates skin aging
+- Manage stress which can trigger many skin conditions
+- Wear protective clothing in sun
+- Perform monthly skin self examinations
+
+When to See a Dermatologist Immediately:
+- Any rapidly changing skin lesion
+- Skin lesion that bleeds without injury
+- Mole showing ABCDE warning signs
+- Non-healing sore or wound
+- Sudden widespread rash especially with fever
+- Purpura that does not blanch when pressed
+- Any skin condition causing significant distress
+- Suspected skin cancer of any type
+
+How to Do a Skin Self Examination:
+1. Stand in front of full length mirror in well-lit room
+2. Examine face neck ears and scalp
+3. Check chest and abdomen
+4. Examine arms including underarms and hands
+5. Check back and buttocks using hand mirror
+6. Examine legs including backs of legs and between toes
+7. Check soles of feet
+8. Note any new or changing spots moles or lesions
+9. Report any ABCDE changes to dermatologist
+
+Understanding Skin Cancer Risk:
+- Skin cancer is the most common cancer worldwide
+- Most skin cancers are caused by UV radiation from sun and tanning beds
+- Fair-skinned individuals have higher risk but darker skin tones can also get skin cancer
+- Early detection dramatically improves outcomes
+- Annual skin checks by dermatologist recommended for high risk individuals
+- Monthly self examinations help catch changes early
+
+Common Questions:
+
+Q: Is my skin condition contagious?
+A: Most skin conditions detected by Derma AI including eczema psoriasis acne dermatofibroma seborrheic keratosis melanocytic nevi and skin cancers are NOT contagious. They cannot spread from person to person through touch or contact.
+
+Q: Can AI diagnose my skin condition?
+A: Derma AI provides a screening assessment only. It is not a medical diagnosis. AI can identify patterns consistent with certain conditions but only a qualified dermatologist with proper examination can make an accurate diagnosis. Always consult a doctor.
+
+Q: What should I do after getting a result from Derma AI?
+A: Use the result as a starting point. Consult a qualified dermatologist who can perform a proper physical examination, use dermoscopy, and if needed take a biopsy to confirm the diagnosis. Do not treat yourself based on AI results alone.
+
+Q: Are all skin lesions dangerous?
+A: No. Many skin lesions like benign keratoses dermatofibromas and common moles are completely harmless. However any new or changing skin lesion should be evaluated by a dermatologist to rule out dangerous conditions.
+
+Q: How accurate is Derma AI?
+A: Derma AI is trained on large datasets of skin images and achieves good performance in controlled settings. However accuracy can be affected by image quality lighting angle and skin tone variation. It is a screening tool and not a diagnostic tool. Professional evaluation is always required.
+
+Q: What is the best sunscreen to use?
+A: Use a broad spectrum sunscreen that protects against both UVA and UVB rays with SPF 30 or higher. Apply generously and reapply every 2 hours when outdoors. Choose water-resistant formula for swimming or heavy sweating.
+
+Q: How often should I see a dermatologist?
+A: Most people should have a skin check annually. Those with high risk factors including family history of skin cancer multiple moles fair skin or history of significant sun exposure should see a dermatologist more frequently as recommended by their doctor.
+
+Q: What is the difference between a mole and melanoma?
+A: Use the ABCDE rule. Normal moles are symmetric with regular borders uniform color smaller than 6mm and stable over time. Melanoma shows asymmetry irregular borders multiple colors larger size or changes over time. Any mole with ABCDE warning signs needs immediate dermatologist evaluation.
+
+Important Disclaimer:
+Derma AI is an educational and screening tool only. It does not provide medical advice diagnosis or treatment. Information provided by Derma AI including this chatbot should not replace consultation with a qualified healthcare professional. Always seek the advice of a dermatologist or other qualified health provider with any questions you may have regarding a skin condition. Never disregard professional medical advice because of something you read or see in this application.

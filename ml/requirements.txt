@@ -1,0 +1,8 @@
+tensorflow-cpu==2.16.2
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+python-multipart==0.0.6
+pytz
+opencv-python-headless==4.9.0.80
+Pillow==10.4.0
+numpy==1.26.4
