@@ -160,6 +160,39 @@ The frontend will be available at `http://localhost:5173`.
 - Backend API: `http://localhost:8000`
 - Django Admin: `http://localhost:8000/admin`
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/dashboard.jpeg" width="270"/><br/>
+      <sub><b>Dashboard</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/upload-scan.jpeg" width="270"/><br/>
+      <sub><b>Upload Scan</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/analysis-result.jpeg" width="270"/><br/>
+      <sub><b>Analysis Result</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/chatbot.jpeg" width="270"/><br/>
+      <sub><b>RAG Chatbot</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/doctors.jpeg" width="270"/><br/>
+      <sub><b>Recommended Doctors</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/login.jpeg" width="270"/><br/>
+      <sub><b>Login</b></sub>
+    </td>
+  </tr>
+</table>
+
 ## How the AI Parts Work
 
 - The image detection feature uses `dermaai_model.keras`.
